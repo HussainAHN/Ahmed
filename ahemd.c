@@ -2,9 +2,9 @@
 
 int main{
 
-int a;
+float a;
 
-scanf("%d",&a);
+scanf("%f",&a);
 
 return 0;
 }
